@@ -4,7 +4,7 @@ import Favorite from './Favorite';
 function App() {
   return (
     <div className= "Apps">
-      <Favorite/>
+      <Favorite />
     </div>
   );
 }
